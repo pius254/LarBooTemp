@@ -29,10 +29,10 @@
 			<div class="container">
 				<div class="header-top">
 					<div class="pull-right social-icons">
-						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-google-plus"></i></a>
-						<a href="#"><i class="fa fa-youtube"></i></a>
+						<a href="https://twitter.com/pius_wanjiru"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/kaboom.pius"><i class="fa fa-facebook"></i></a>
+						<a href="http://ke.linkedin.com/in/piuswanjiru"><i class="fa fa-linkedin"></i></a>
+						<a href="https://github.com/pius254/"><i class="fa fa-github"></i></a>
 					</div>
 				</div>     
 		        <div class="row">	        		
